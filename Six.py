@@ -15,8 +15,6 @@ theMax = 0  # Variable to hold the maximum value
 marker = 0  # Variable to hold where the largest frequency is
 counter = 0  # Variable to count out where the largest frequency is
 
-print(frequencies)
-
 while counter < len(frequencies):  # For every integer in the list of frequencies
     if frequencies[counter] >= theMax:  # If the current number is larger than the maximum
         theMax = frequencies[counter]  # The maximum is the current number
