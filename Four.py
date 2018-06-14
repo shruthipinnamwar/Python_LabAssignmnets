@@ -1,6 +1,6 @@
 # Kate Williams
 # Student #39
-# Lab 1 Project 2
+# Lab 1 Project 4
 # Due 6/15/2018
 
 # Initialize lists of students from both classes
